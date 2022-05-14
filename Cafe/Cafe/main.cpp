@@ -52,13 +52,7 @@ int main()
     {
         cout << "Your total is $" << total << ".";
     }
-   // else if (answerType == 'eh')
-  //  {
-      //  cout << "That is not valid, please answer yes or no next time.";
-      //  cout << "Your total is $" << total << ".";
-
-   // }
-   //decided to cut the
+   
 // item 2 is now added
     cout << "We have 5 sandwiches.";
     cout << "Would you like to buy a sandwich for $" << sandwich << ":";
@@ -76,7 +70,7 @@ int main()
     {
         cout << "Your total is $" << total << ".";
     }
-   //it gone
+    
     // item 3
     cout << "We have 4 croissant.";
     cout << "Would you like to buy a croissant for $" << croissant << ":";
@@ -94,7 +88,7 @@ int main()
     {
         cout << "Your total is $" << total << ".";
     }
-    //jhhj
+    
     //item 4
     cout << "We have 20 cupcakes.";
     cout << "Would you like to buy a cupcake for $" << cupcakes << ":";
@@ -113,8 +107,7 @@ int main()
     {
         cout << "Your total is $" << total << ".";
     }
-    else if (answerType == 'eh')
-    //s,
+    
     //item 5
     cout << "We have 16 macarons.";
     cout << "Would you like to buy a macarons for $" << macarons << ":";
@@ -133,7 +126,7 @@ int main()
     {
         cout << "Your total is $" << total << ".";
     }
-   //djs
+    
     // item 6
     cout << "We have 5 espressos.";
     cout << "Would you like to buy a espresso for $" << espresso << ":";
@@ -152,8 +145,7 @@ int main()
     {
         cout << "Your total is $" << total << ".";
     }
-    else if (answerType == 'maybe')
-    //
+    
     //item 7
     cout << "We have 4 lattes.";
     cout << "Would you like to buy a latte for $" << latte << ":";
@@ -172,7 +164,7 @@ int main()
     {
         cout << "Your total is $" << total << ".";
     }
-    //
+   
     //item 8
     cout << "We have 8 waters.";
     cout << "Would you like to buy a water for $" << water << ":";
@@ -191,7 +183,7 @@ int main()
     {
         cout << "Your total is $" << total << ".";
     }
-   //
+   
     //item 9
     cout << "We only have 3 smoothies left.";
     cout << "Would you like to buy a smoothie for $" << smoothie << ":";
@@ -210,7 +202,7 @@ int main()
     {
         cout << "Your total is $" << total << ".";
     }
-   //
+    
     //item 10
     cout << "We have only 2 iced coffees left.";
     cout << "Would you like to buy an iced coffee for $" << icedcoffee << ":";
@@ -229,7 +221,7 @@ int main()
     {
         cout << "Your total is $" << total << ".";
     }
-    //
+  
     //item 11
     cout << "We have 12 coffes.";
     cout << "Would you like to buy a coffee for $" << coffee << ":";
@@ -248,7 +240,7 @@ int main()
     {
         cout << "Your total is $" << total << ".";
     }
-    //
+    
     //item 12 
     cout << "We have 8 cappachinos.";
     cout << "Would you like to buy a cappachino for $" << cappachino << ":";
@@ -267,7 +259,7 @@ int main()
     {
         cout << "Your total is $" << total << ".";
     }
-    //
+    
     //item 13
     cout << "We only have 1 macchiato left.";
     cout << "Would you like to buy a macchiato for $" << macchiato << ":";
@@ -293,7 +285,6 @@ int main()
         cout << "Here's your change $" << money - total << ".";
 
     }
-   //
 
     cout << "Thank you for your time and I hope you enjoyed visting the Fancy Cafe!";
     while (1);
