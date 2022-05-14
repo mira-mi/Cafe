@@ -248,7 +248,7 @@ int main()
     {
         cout << "Your total is $" << total << ".";
     }
-    //
+    //had to get rid of maybe it was causing problems
     //item 12 
     cout << "We have 8 cappachinos.";
     cout << "Would you like to buy a cappachino for $" << cappachino << ":";
@@ -267,7 +267,7 @@ int main()
     {
         cout << "Your total is $" << total << ".";
     }
-    //
+    //this version debugs
     //item 13
     cout << "We only have 1 macchiato left.";
     cout << "Would you like to buy a macchiato for $" << macchiato << ":";
