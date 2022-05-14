@@ -301,3 +301,4 @@ int main()
 
 
 }
+// code tweaked from stackedoverflow to get the program to do exactly what I wanted.
